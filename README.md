@@ -1,4 +1,4 @@
--- Potpouri of Tech Docs and Writing examples  
+-- Tech Docs and Writing samples Potpourri  
 --
 --  
 --> preventative maintenance, service repair, and code disciplines e.g. c++ for robotic drive wheels
